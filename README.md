@@ -1,2 +1,3 @@
 # PROyectoSysNova
-Proyecto universitario 
+Proyecto universitario
+# Prueba de uso inicial para edición
